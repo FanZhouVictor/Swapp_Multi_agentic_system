@@ -10,3 +10,4 @@ We will develop multi agentic system API
    https://learn.deeplearning.ai/courses/langchain/lesson/1/introduction
 5. LangGraph Tutorials:
    https://python.langchain.com/docs/tutorials/
+6. https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/multi_agent/agent_supervisor.ipynb
