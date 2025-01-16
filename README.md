@@ -11,3 +11,4 @@ We will develop multi agentic system API
 6. LangGraph Tutorials:
    https://python.langchain.com/docs/tutorials/
 7. https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/multi_agent/agent_supervisor.ipynb
+8. An example frame using RAG memory: https://www.kaggle.com/code/yannicksteph/nlp-langgraph-multi-agent-rag?utm_source=perplexity
